@@ -1,4 +1,4 @@
-📝 README – Databázový model pro sportovní evidenci
+https://dbdiagram.io/d/ZAVODY-6915a8176735e111709f0e5b
 
 📌 Přehled
 
