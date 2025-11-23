@@ -1,4 +1,5 @@
 📝 README – Databázový model pro sportovní evidenci
+
 📌 Přehled
 
 Tato databáze slouží k evidenci sportovců, trenérů, klubů, disciplín, závodů a jejich výsledků. Umožňuje sledovat vztahy mezi sportovcem a trenérem, starty sportovců v závodech a dosažené výkony.
