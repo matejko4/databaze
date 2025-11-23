@@ -82,3 +82,4 @@ Disciplína 1 ↔ ∞ Závod
 Závod 1 ↔ ∞ Startovka
 
 Startovka 1 ↔ 1 Výsledek
+
